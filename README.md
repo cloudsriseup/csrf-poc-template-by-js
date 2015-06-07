@@ -1,0 +1,1 @@
+csrf-poc-template-by-js
